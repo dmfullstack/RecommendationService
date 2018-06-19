@@ -1,0 +1,11 @@
+D:\virtualbox\jenkins-docker-ansible\workspace\042018\RecommendationService\src\main\java\com\recommendationService\commands\UserForm.java
+D:\virtualbox\jenkins-docker-ansible\workspace\042018\RecommendationService\src\main\java\com\recommendationService\converters\UserFormToUser.java
+D:\virtualbox\jenkins-docker-ansible\workspace\042018\RecommendationService\src\main\java\com\recommendationService\domain\User.java
+D:\virtualbox\jenkins-docker-ansible\workspace\042018\RecommendationService\src\main\java\com\recommendationService\services\UserService.java
+D:\virtualbox\jenkins-docker-ansible\workspace\042018\RecommendationService\src\main\java\com\recommendationService\domain\Game.java
+D:\virtualbox\jenkins-docker-ansible\workspace\042018\RecommendationService\src\main\java\com\recommendationService\SpringBootNeo4jApplication.java
+D:\virtualbox\jenkins-docker-ansible\workspace\042018\RecommendationService\src\main\java\com\recommendationService\controllers\UserController.java
+D:\virtualbox\jenkins-docker-ansible\workspace\042018\RecommendationService\src\main\java\com\recommendationService\repositories\GameRespository.java
+D:\virtualbox\jenkins-docker-ansible\workspace\042018\RecommendationService\src\main\java\com\recommendationService\converters\UserToUserForm.java
+D:\virtualbox\jenkins-docker-ansible\workspace\042018\RecommendationService\src\main\java\com\recommendationService\services\UserServiceImpl.java
+D:\virtualbox\jenkins-docker-ansible\workspace\042018\RecommendationService\src\main\java\com\recommendationService\repositories\UserRepository.java

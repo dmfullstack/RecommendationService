@@ -1,0 +1,11 @@
+com\recommendationService\converters\UserToUserForm.class
+com\recommendationService\SpringBootNeo4jApplication.class
+com\recommendationService\controllers\UserController.class
+com\recommendationService\repositories\UserRepository.class
+com\recommendationService\services\UserService.class
+com\recommendationService\domain\Game.class
+com\recommendationService\services\UserServiceImpl.class
+com\recommendationService\domain\User.class
+com\recommendationService\repositories\GameRespository.class
+com\recommendationService\converters\UserFormToUser.class
+com\recommendationService\commands\UserForm.class
